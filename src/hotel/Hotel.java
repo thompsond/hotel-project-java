@@ -31,7 +31,7 @@ public class Hotel extends Application {
     private ObservableList<Person> guestsObservableList;
     private static final String URL = "jdbc:mysql://localhost:3306/hotel?useSSL=false";
     private static final String USERNAME = "root";
-    private static final String PASSWORD = "Sodacan5100";
+    private static final String PASSWORD = "<pass>";
     
     @Override
     public void start(Stage primaryStage) throws IOException {
